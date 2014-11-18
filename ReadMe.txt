@@ -10,7 +10,6 @@ Theme version: v1.0
 Release Date: 13 Nov 2014
 Author: HtmlCoder (http://htmlcoder.me)
 Contact: http://htmlcoder.me/contact
-Email: htmlcoder.me@gmail.com
 
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 
