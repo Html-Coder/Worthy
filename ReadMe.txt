@@ -1,6 +1,6 @@
 Worthy - Free Bootstrap Template
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
+Worthy is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
 You can use it for corporate, business and agency webpages as well as 
 portfolio and personal webpages.
 
@@ -27,19 +27,19 @@ Credits:
 
 Demo images
 ------------------------------------------------------
-Unsplash by Crew - http://unsplash.com/
+Unsplash by Crew - https://unsplash.com/
 
 Fonts
 ------------------------------------------------------
-Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
-Google Fonts - http://www.google.com/fonts
+Font Awesome by Dave Gandy - http://fontawesome.io/
+Google Fonts - https://fonts.google.com/
 
 Resources
 ------------------------------------------------------
-Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
-jQuery - https://jquery.org/
+Bootstrap Framework by @mdo and @fat - https://getbootstrap.com/
+jQuery - https://jquery.com/
 jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
-Modernizr - http://modernizr.com/
-Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
-Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
-Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
+Modernizr - https://modernizr.com/
+Animate CSS by Daniel T. Eden - https://daneden.github.io/animate.css/
+Isotope Jquery plugin by metafizzy.co - https://isotope.metafizzy.co/
+Backstrech by Scott Robbin - http://www.jquery-backstretch.com/
